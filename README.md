@@ -20,7 +20,7 @@
 Sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e escaláveis. Atualmente, trabalho com **.NET** e **Angular**, focando na criação de APIs robustas e sistemas baseados em microserviços que entregam alta performance e eficiência. Sempre em busca de novos desafios, tenho dedicação para solucionar problemas complexos e aprender rapidamente novas tecnologias.
 
 - 🔭 Atualmente: Desenvolvedor Full Stack na ForLogic
-- 🌱 Estudando: Aperfeiçoamento contínuo em tecnologias .NET e frameworks modernos
+- 🌱 Estudando: Analise e Desenvolvimento de Sistemas - PUCPR
 - 💬 Sobre mim: Adaptável, comprometido e apaixonado por resolver desafios de software
 
 ---
